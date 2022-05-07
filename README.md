@@ -9,7 +9,7 @@ Molecular docking is the simplest yet one of the most powerful methods of modell
 
 
 1. The following was changed in this notebook compared to the above two:
-1. This notebook provides docking with a pocket water option compared to the original one, what I have done is use Pymol to keep 5 of the ligand then use the water-contained receptor in docking. And you should only run one of them, be careful!
+1. This notebook provides docking with a pocket water option compared to the original one, what I have done is use Pymol to keep 5 of the ligand then use the water-contained receptor in docking. There are two cells,and you should only run one of them, be careful!
 
 1. The docking validation and docking separately existed in two non-related notebooks, but this one integrated them in a single notebook, which will save time and be more convenient.
 1. If you use this notebook on AI Studio(https://aistudio.baidu.com/aistudio/index), it realized the "permanent" installation, unlike the google collab in which you have to install each time before you could do anything. 
