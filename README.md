@@ -4,8 +4,8 @@
 
 Molecular docking is the simplest yet one of the most powerful methods of modelling in the medicinal chemistry field. There are many licensed and free academic options there, but most still need a local installation. This is a cloud pipeline based on Autodock Vina (Smina), aiming to provide a totally free tool to those who want to use molecular docking in their projects. You don't have to install anything but provide an SDF file that could be from Chemdraw and a protein RCSB four-letter code.
 
-# References and contribution eleboration
-# This code was first inspired by [https://www.macinchem.org/reviews/JupyterDocking/jupyterdocking.php](http://) and [https://www.cheminformania.com/ligand-docking-with-smina/](http://)
+ References and contribution eleboration
+ This code was first inspired by [https://www.macinchem.org/reviews/JupyterDocking/jupyterdocking.php](http://) and [https://www.cheminformania.com/ligand-docking-with-smina/](http://)
 
 
 1. The following was changed in this notebook compared to the above two:
