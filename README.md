@@ -14,4 +14,4 @@ Molecular docking is the simplest yet one of the most powerful methods of modell
 1. The docking validation and docking separately existed in two non-related notebooks, but this one integrated them in a single notebook, which will save time and be more convenient.
 1. If you use this notebook on AI Studio(https://aistudio.baidu.com/aistudio/index), it realized the "permanent" installation, unlike the google collab in which you have to install each time before you could do anything. 
 
-1. Conda, Pymol and three to four paths have been modified to maintain the compatibility on Colab, but also enable the use of AI Studio. 
+1. Conda, Pymol and three to four paths have been modified to maintain the compatibility on Colab, but with extra AI studio compatibility, you may find the path a bit weird on Colab, that is to get rid of some user restrictions from AI studio, but it still works on Colab. 
