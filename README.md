@@ -9,7 +9,9 @@ Molecular docking is the simplest yet one of the most powerful methods of modell
 
 
 1. The following was changed in this notebook compared to the above two:
-1. This notebook provides docking with a pocket water option compared to the original one, what I have done is use Pymol to keep 5 of the ligand then use the water-contained receptor in docking. There are two cells, you should only run one of them, be careful! The first one is docking without waters, the second with waters.
+1. This notebook provides docking with a pocket water option compared to the original one, what I have done is use Pymol to keep 5 of the ligand then use the water-contained receptor in docking. There are two cells, you should only run one of them, be careful! 
+
+Docking without waters
 
 ```
 com_file = open('fetch_and_clean.pml','w')
@@ -24,7 +26,7 @@ save 1234-receptor.pdb, 1234-receptor
 ''')
 com_file.close()
 ```
-OR
+OR, with waters.
 
 ```
 com_file = open('fetch_and_clean.pml','w')
