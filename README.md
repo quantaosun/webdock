@@ -8,7 +8,7 @@ Molecular docking is the simplest yet one of the most powerful methods of modell
  This code was first inspired by [https://www.macinchem.org/reviews/JupyterDocking/jupyterdocking.php](http://) and [https://www.cheminformania.com/ligand-docking-with-smina/](http://)
 
 
-1. The following was changed in this notebook compared to the above two:
+The following was changed in this notebook compared to the above two:
 1. This notebook provides docking with a pocket water option compared to the original one, what I have done is use Pymol to keep 5 of the ligand then use the water-contained receptor in docking. There are two cells, you should only run one of them, be careful! 
 
 Docking without waters
@@ -44,7 +44,7 @@ save 1234-receptor.pdb, 1234-receptor
 com_file.close()
 ```
 
-1. The docking validation and docking separately existed in two non-related notebooks, but this one integrated them in a single notebook, which will save time and be more convenient.
+2. The docking validation and docking separately existed in two non-related notebooks, but this one integrated them in a single notebook, which will save time and be more convenient.
 1. If you use this notebook on AI Studio(https://aistudio.baidu.com/aistudio/index), it realized the "permanent" installation, unlike the google collab in which you have to install each time before you could do anything. 
 
-1. Conda, Pymol and three to four paths have been modified to maintain the compatibility on Colab, but with extra AI studio compatibility, you may find the path a bit weird on Colab, that is to get rid of some user restrictions from AI studio, it will still work on Colab. 
+3. Conda, Pymol and three to four paths have been modified to maintain the compatibility on Colab, but with extra AI studio compatibility, you may find the path a bit weird on Colab, that is to get rid of some user restrictions from AI studio, it will still work on Colab. 
