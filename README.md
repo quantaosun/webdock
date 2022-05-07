@@ -17,7 +17,7 @@ com_file.write('''
 load 1234.pdb
 remove resn HOH
 h_add elem O or elem N
-select 1234-567, resn 567 #Create a selection called 1OYT-FSN from the ligand
+select 1234-567, resn 567 #Create a selection called 1234-567from the ligand
 select 1234-receptor, 1234 and not 1234-567 #Select all that is not the ligand
 save 1234-567.pdb, 1234-567
 save 1234-receptor.pdb, 1234-receptor    
@@ -34,7 +34,7 @@ create ligand= resn 567
 create active_water= resn HOH within 5 of ligand
 remove resn HOH &! active_water
 h_add elem O or elem N
-select 1234-567, resn 567 #Create a selection called 1OYT-FSN from the ligand
+select 1234-567, resn 567 #Create a selection called 1234-567 from the ligand
 select 1234-receptor, 1234 and not 1234-567 #Select all that is not the ligand
 save 1234-567.pdb, 1234-567
 save 1234-receptor.pdb, 1234-receptor    
