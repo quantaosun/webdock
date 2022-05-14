@@ -7,6 +7,10 @@ Updated on 14 May 2022, Selectivity prediction docking procedure added. 2 ligand
 
 If you have to get a perfect docking result, you are suggested to yield the 4 docked top1 poses subject to https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb to do a short MD simulation, to further tune the pocket interaction with your ligand bound. After that, you can run this 00298075 notebook again but with the bound ligand itself, this way, you realized a so called "Induced Fit Docking" or even better.
 
+What's more, this 00298075 notebook also enables two potential pairwise FEP calculation, i.e., FEP of ligand 1 changed to ligand 2 on target1, and ligand 1 changed to ligand 2 on target 2. But that would be another topic. You can head to https://github.com/quantaosun/NAMD-FEP to have a general idea how it looks like.
+
+What excited me the most is the fact, what provided here, do not request you anything but a google account and a computer connected to internet, let's say you are in a public library, as long as you can log in to your google account, you can finish all the content included in 00298075, and https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb. That is to say, you nearly don't have to spend a cent but can do some state-of-the-art (2022) medicinal modelling. Of course there are better methodologies exists, but it cost hugely sometime.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # I will be sad if you ever decide to use this on a local computer, the whole point here is to use docking on the cloud. But it is definitely possible if you insist on using it locally.
 
