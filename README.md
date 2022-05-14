@@ -1,7 +1,10 @@
 # Free_Cloud_Docking
 
 
-Updated on 14 May 2022, Selectivity prediction docking procedure added.
+Updated on 14 May 2022, Selectivity prediction docking procedure added. 2 ligands will be docked to two close related protein targets, to address how selectivity would change upon chemical modification from ligand 1 to ligand 2, towards target 1 to target 2.
+
+![image](https://user-images.githubusercontent.com/75652473/168420589-deb81559-c4fe-443a-a9c1-74c3afb4cff9.png)
+
 
 # I will be sad if you ever decide to use this on a local computer, the whole point here is to use docking on the cloud. But it is definitely possible if you insist on using it locally.
 
