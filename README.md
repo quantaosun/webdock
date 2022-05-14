@@ -5,7 +5,9 @@ Updated on 14 May 2022, Selectivity prediction docking procedure added. 2 ligand
 
 ![image](https://user-images.githubusercontent.com/75652473/168420589-deb81559-c4fe-443a-a9c1-74c3afb4cff9.png)
 
+If you have to get a perfect docking result, you are suggested to yield the 4 docked top1 poses subject to https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb to do a short MD simulation, to further tune the pocket interaction with your ligand bound. After that, you can run this 00298075 notebook again but with the bound ligand itself, this way, you realized a so called "Induced Fit Docking" or even better.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 # I will be sad if you ever decide to use this on a local computer, the whole point here is to use docking on the cloud. But it is definitely possible if you insist on using it locally.
 
 Molecular docking is the simplest yet one of the most powerful methods of modelling in the medicinal chemistry field. There are many licensed and free academic options there, but most still need a local installation. This is a cloud pipeline based on Autodock Vina (Smina), aiming to provide a totally free tool to those who want to use molecular docking in their projects. You don't have to install anything but provide an SDF file that could be from Chemdraw and a protein RCSB four-letter code.
