@@ -8,6 +8,10 @@ one is just for a simple docking on the cloud,
 
 the other is a more complex one integrated with molecular dynamics to address the flexibility of protein pocket, i.e., it is very similar to the conception of so-called induced fit docking. (Actually, it is better than most commercial induced-fit docking algorithms just beause none of those ever do any full atom simulation at all)
 
+Either docking or MD will be all done on cloud.
+
+Adjust the MD time based on how impatient you are. The MD method is partly borrowed from https://github.com/pablo-arantes/Making-it-rain.
+
 
 
 
