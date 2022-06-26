@@ -1,6 +1,6 @@
 # Free_Cloud_Docking
 
-Updated on 26 June 2022. Initial docking, then MD to relax the binding pose, then use this relaxed pose as a new starting point for another flexible docking by Vina, at last one more MD is designed to give both final binding pose and MMPBS score of binding.
+Updated on 26 June 2022. An induced fit docking process added with the help of molecular dynamic. Initial docking, then MD to relax the binding pose, then use this relaxed pose as a new starting point for another flexible docking by Vina, at last one more MD is designed to give both final binding pose and MMPBS score of binding.
 
 Updated on 14 May 2022, Selectivity prediction docking procedure added. 2 ligands will be docked to two close related protein targets, to address how selectivity would change upon chemical modification from ligand 1 to ligand 2, towards target 1 to target 2.
 
