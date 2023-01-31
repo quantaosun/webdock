@@ -16,8 +16,7 @@ For example,
 
 https://proteins.plus/
 
-
-![PLIF webserver](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)
+https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index
 
 
 
