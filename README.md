@@ -14,7 +14,7 @@
 
 For example, upload the complex to 
 
-https://proteins.plus/ (Example is a COVID19 related PDB structure: 7L10)
+https://proteins.plus/ (Example is a COVID19 related PDB structure: 7L10), it will works the same if you upload the docked complex.
 
 <img width="1315" alt="image" src="https://user-images.githubusercontent.com/75652473/215712074-4ee2deaa-9955-4160-8314-bc6f386dcb48.png">
 
