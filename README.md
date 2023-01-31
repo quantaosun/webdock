@@ -14,9 +14,10 @@
 
 For example, upload the complex to 
 
-https://proteins.plus/
+https://proteins.plus/ (Example is a COVID19 related PDB structure: 7L10)
 
-<img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215708966-2ed253ab-87c6-4a47-9dd8-36e256709b8d.png">
+<img width="1315" alt="image" src="https://user-images.githubusercontent.com/75652473/215712074-4ee2deaa-9955-4160-8314-bc6f386dcb48.png">
+
 
 
 
