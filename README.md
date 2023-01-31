@@ -12,11 +12,12 @@
 
 ## After it is done, you can download docked result, analyze on any visualization software or some webserver
 
-For example, 
+For example, upload the complex to 
 
 https://proteins.plus/
 
-https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215708966-2ed253ab-87c6-4a47-9dd8-36e256709b8d.png">
+
 
 
 
