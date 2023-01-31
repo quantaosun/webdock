@@ -8,13 +8,13 @@
   <img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692221-2caa0ab1-dc20-460a-9344-48643132e3ed.png">
 </p>
 
-                                                           Zoom-out view
+                                                        Zoom-out view
 
 <p align="center">
   <img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692300-d2b57c08-dc82-4d93-9c37-356f26ce94cd.png">
 </p>
 
-                                                           Zoom-in view
+                                                        Zoom-in view
 
 ## After finishing, you can download the docked result, analyze it on any visualization software or some web server
 
