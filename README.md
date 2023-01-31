@@ -9,7 +9,10 @@
 </p>
 
 
-<img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692300-d2b57c08-dc82-4d93-9c37-356f26ce94cd.png">
+<p align="center">
+  <img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692300-d2b57c08-dc82-4d93-9c37-356f26ce94cd.png">
+</p>
+
 
 ## After it is done, you can download docked result, analyze on any visualization software or some webserver
 
