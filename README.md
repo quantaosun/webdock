@@ -25,8 +25,7 @@ https://proteins.plus/ (Example is a COVID19-related PDB structure: 7L10). It wi
 <img width="1315" alt="image" src="https://user-images.githubusercontent.com/75652473/215712074-4ee2deaa-9955-4160-8314-bc6f386dcb48.png">
 
 
-
-
+### After the protein prepared, the ```complex_prepared.pdb``` has the readily compatable format that can be uploaded and be recognized by Charmm Gui web server, from there molecular dynamic input can be generated easily.
 
 
 
