@@ -17,8 +17,9 @@
                                                      Zoom-in view
                                                      
                                                    
-                                                ![image](https://user-images.githubusercontent.com/75652473/216478725-1e67edce-b939-4dca-a147-4e5688e53240.png)
+                                                
 
+![image](https://user-images.githubusercontent.com/75652473/216478725-1e67edce-b939-4dca-a147-4e5688e53240.png)
 
 ## After finishing, you can download the docked result, analyze it on any visualization software or some web server
 
