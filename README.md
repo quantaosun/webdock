@@ -29,9 +29,9 @@ https://proteins.plus/
 
 ## To do a molecular dynamic, just download ```Docked1.pdb``` and ```output.pdb``` and upload to third party workflows
 
-For example, you can use https://github.com/quantaosun/making-it-rain/blob/main/Protein_ligand.ipynb 
+For example, you can use https://github.com/quantaosun/making-it-rain/blob/main/Protein_ligand.ipynb
 
-
+ 
 
 
 
