@@ -27,10 +27,10 @@ For example, upload the complex to
 
 https://proteins.plus/ 
 
-## To do a molecular dynamic, just download ```Docked1.pdb``` and ```output.pdb``` and upload to third party workflows, these two files are generated from the two cells below.
+## To do a molecular dynamic, just download ```Docked1.pdb``` and ```output.pdb``` and upload to third party workflows
 
 For example, you can use https://github.com/quantaosun/making-it-rain/blob/main/Protein_ligand.ipynb 
-<img width="701" alt="image" src="https://user-images.githubusercontent.com/75652473/216316203-6d4d108a-87c3-4b4e-9c1a-c7a5117c7881.png">
+
 
 
 
