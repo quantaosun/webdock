@@ -1,6 +1,10 @@
 
+## To dock a list of small molecules, Open in Colab
 
-## To use this docking workflow, Open in Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/Free_Cloud_Docking_multiple_docking.ipynb)
+
+
+## To dock only one small molecule, Open in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/Autodock_vina_colab/blob/main/Free_Cloud_Docking_2D_3D.ipynb)
 
