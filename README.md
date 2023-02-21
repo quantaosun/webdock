@@ -7,21 +7,7 @@
 ## To dock only one small molecule, Open in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/Autodock_vina_colab/blob/main/Free_Cloud_Docking_2D_3D.ipynb)
-
-<p align="center">
-  <img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692221-2caa0ab1-dc20-460a-9344-48643132e3ed.png">
-</p>
-
-                                                     Zoom-out view
-
-<p align="center">
-  <img width="605" alt="image" src="https://user-images.githubusercontent.com/75652473/215692300-d2b57c08-dc82-4d93-9c37-356f26ce94cd.png">
-</p>
-
-                                                     Zoom-in view
-                                                     
-                                                   
-                                                
+                                                                                                  
 
 ![image](https://user-images.githubusercontent.com/75652473/216478725-1e67edce-b939-4dca-a147-4e5688e53240.png)
 
