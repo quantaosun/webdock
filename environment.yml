@@ -201,7 +201,6 @@ dependencies:
   - openbabel=3.1.1=py38h3c5e4c7_5
   - openjpeg=2.5.0=hfec8fc6_2
   - openmm=8.0.0=py38he9472fe_0
-  - openssl=3.0.8=h0b41bf4_0
   - packaging=23.0=pyhd8ed1ab_0
   - pandas=1.5.3=py38hdc8b05c_0
   - pandocfilters=1.5.0=pyhd3eb1b0_0
