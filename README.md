@@ -12,11 +12,6 @@ After mybinder.ipynb you will get complex1.pdb and a file called complex1.sdf, u
 ## To dock a list of small molecules, Open in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/Free_Cloud_Docking_multiple_docking.ipynb)
-
-
-## To dock only one small molecule, Open in Colab (This is almost the same as Binder, I provide it here in case Binder is not avaliable)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/Autodock_vina_colab/blob/main/Free_Cloud_Docking_2D_3D.ipynb)
                                                                                                   
 
 ![image](https://user-images.githubusercontent.com/75652473/216478725-1e67edce-b939-4dca-a147-4e5688e53240.png)
