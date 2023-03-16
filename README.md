@@ -4,6 +4,10 @@
 
 After mybinder.ipynb you will get complex1.pdb and a file called complex1.sdf, using these two files you can do a molecular dynamics after charmmgui solution builder, with NAMD on colab.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/Free_Cloud_Docking_multiple_docking.ipynb)
+
+
 ## To dock a list of small molecules, Open in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/Free_Cloud_Docking_multiple_docking.ipynb)
