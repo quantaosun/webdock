@@ -6,6 +6,6 @@ conda env create --file ../env.yml
 Then use the docking inside jupyter lab
 
 ```
-jupyter lab $this$.ipynb
+jupyter lab Free_Cloud_Docking_2D_3D_local_Linux.ipynb
 
 ```
