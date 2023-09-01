@@ -5,16 +5,6 @@ But if you just want to use it in a light manner, you can use it on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/quantaosun-pl3-z2nj8uii/doc/workspaces/auto-Q/tree/u_never_should_waiting.ipynb)
 
 
-If using this in a local Unix machine from within an independent conda channel, add the following to the notebook (you need change the path accordingly)
-
-```
-import sys
-sys.path.append('/root/miniconda3/envs/pl3/lib/python3.8/site-packages')
-
-```
-
-After mybinder.ipynb you will get complex1.pdb and a file called complex1.sdf, using these two files you can do a molecular dynamics after charmmgui solution builder, with NAMD on colab.
-
 ## MD simulation of docked pose 1 on Google Colab with NAMD
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/charmgui_namd3_simulation_after_mybinder_pl3.ipynb)
