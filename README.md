@@ -2,10 +2,6 @@
 But if you just want to use it in a light manner, you can use it on Binder 
 ## Binder public version
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/pl3/HEAD?labpath=mybinder.ipynb)
-
-or 
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/quantaosun-pl3-z2nj8uii/doc/workspaces/auto-Q/tree/u_never_should_waiting.ipynb)
 
 
