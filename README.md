@@ -2,7 +2,7 @@
 But if you just want to use it in a light manner, you can use it on Binder 
 ## Binder public version
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/quantaosun-pl3-z2nj8uii/doc/workspaces/auto-Q/tree/u_never_should_waiting.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/quantaosun-pl3-z2nj8uii/doc/workspaces/auto-Q/tree/mybinder.ipynb)
 
 
 ## MD simulation of docked pose 1 on Google Colab with NAMD
