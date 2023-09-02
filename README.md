@@ -2,7 +2,6 @@
 But if you just want to use it in a light manner,you can use it on Binder (public free server)
 ## Try a quick docking online 
 
-https://mybinder.org/v2/gh/quantaosun/pl3.git/HEAD?labpath=mybinder 
 
 https://notebooks.gesis.org/binder/jupyter/user/quantaosun-pl3-plx8e46h/doc/workspaces/auto-Q/tree/mybinder.ipynb
 
