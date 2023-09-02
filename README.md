@@ -17,9 +17,6 @@ After mybinder.ipynb you will get complex1.pdb and a file called complex1.sdf, u
 
 ## MD simulation of docked pose 1 on Google Colab with NAMD
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/charmgui_namd3_simulation_after_mybinder_pl3.ipynb)
-
-
 ## To dock a list of small molecules, Open in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/pl3/blob/main/Free_Cloud_Docking_multiple_docking.ipynb)
