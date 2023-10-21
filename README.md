@@ -4,6 +4,10 @@ But if you just want to use it in a light manner,you can use it on Binder (publi
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/pl3/HEAD?labpath=mybinder.ipynb)
 
+```
+./smina.static --seed 0 --autobox_ligand native_ligand.pdbqt -r receptor.pdbqt -l small_conformation.sdf -o Docked.pdb
+```
+
 If using this in a local Unix machine from within an independent conda channel, add the following to the notebook (you need change the path accordingly)
 
 ```
