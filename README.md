@@ -2,7 +2,7 @@
 But if you just want to use it in a light manner,you can use it on Binder (public free server)
 ## Try a quick docking online 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/pl3/HEAD?labpath=mybinder-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/webdock/HEAD?labpath=mybinder-1.ipynb)
 
 ```
 ./smina.static --seed 0 --autobox_ligand native_ligand.pdbqt -r receptor.pdbqt -l small_conformation.sdf -o Docked.pdb
