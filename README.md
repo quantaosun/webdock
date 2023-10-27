@@ -1,5 +1,4 @@
-## The most reliabe manner to use pl3 is always to install it locally, as shown inside the folder
-But if you just want to use it in a light manner,you can use it on Binder (public free server)
+
 ## Try a quick docking online 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/webdock/HEAD?labpath=webdock_v.0.0.0.ipynb)
