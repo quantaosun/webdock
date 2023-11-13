@@ -22,7 +22,9 @@ Let say the output is
 ```
 Then modify the last line of environment.yml, the prefix path, to the output of the listed conda envs base
 
-That is to say, it is recommanded you change ```prefix: /srv/conda/envs/notebook``` to ```prefix: /home/anaconda/env```
+That is to say, it is recommanded you change ```prefix: /srv/conda/envs/notebook``` to ```prefix: /home/anaconda/env```.
+
+You may also want to change the env name from ```notebook``` to ```webdock```, in the first line, it doesn't matter to our purpuse of docking, but just for being descriptive.
 
 then create the environment by
 
