@@ -20,7 +20,7 @@ dependencies:
   #- backports.functools_lru_cache=1.6.4=pyhd8ed1ab_0
   #- beautifulsoup4=4.11.2=pyha770c72_0
   - biopython=1.81=py38h1de0b5d_0
-  3- bleach=6.0.0=pyhd8ed1ab_0
+  #- bleach=6.0.0=pyhd8ed1ab_0
   #- blinker=1.5=pyhd8ed1ab_0
   #- boost=1.78.0=py38h4e30db6_4
   #- boost-cpp=1.78.0=h75c5d50_1
