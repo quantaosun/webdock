@@ -3,7 +3,7 @@
 
 ## Try webdock on the "Cloud"
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/webdock/HEAD?labpath=webdock_v.0.0.2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/webdock/HEAD?labpath=mybinder-1.ipynb)
 
 ## Installing webdock locally, on a Linux or Mac
 
